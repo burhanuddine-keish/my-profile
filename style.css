@@ -1,29 +1,29 @@
 
 body{
- 	background: #FAEBD7;
+ 	background: #F0FFFF;
  	color: #steelblue;
  	font-family: 'Lora', serif; 
- 	font-size: 16px;
+ 	font-size: 15px;
  	font-weight: lighter;
 }
 h1, h2, h3 {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Lato', sans-serif;
 }
 h1 {
-  	color: #FF7F50;
-  	font-size: 36px;
+  	color: #696969;
+  	font-size: 35px;
   	font-weight: 600;
 }
 h2 {
-  	color: #FF7F50;  
+  	color: #696969;  
   	font-size: 25px;
   	font-weight: 400;
 }
 a {
  	text-decoration: inherit;
- 	color: #FF7F50;
+ 	color: #696969;
  	font-weight:
- 	font-size: 14px;
+ 	font-size: 15px;
 }
 a:hover {
 	color: black;
@@ -31,7 +31,7 @@ a:hover {
 
  
 .container {
-	width:700px;
+	width:725px;
 	margin:40px auto;
 }
 
@@ -61,7 +61,7 @@ a:hover {
 }
 
 .btn-blue {
-	background-color: #95541F;
+	background-color: #696969;
 	color: white;
 	padding: 15px 20px;
 	border-radius: 4px;
@@ -82,8 +82,8 @@ a:hover {
 }
 
 .list-inline i {
-	font-size: 50px;
-	color: rgb(149, 84, 31);
+	font-size: 55px;
+	color: #696969;
 }
 .list-inline i:hover {
 	color: black;
